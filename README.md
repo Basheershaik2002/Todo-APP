@@ -13,7 +13,7 @@ The goal of this project was to get hands-on experience with:
 
 ---
 
-### 🔧 How It Works
+### How It Works
 
 - When the app loads, it reads tasks from a `tasks.txt` file (if available).
 - The user can add a task using a simple text input.
@@ -24,7 +24,7 @@ The goal of this project was to get hands-on experience with:
 
 ---
 
-### 💡 Why I Built It
+### Why I Built It
 
 I chose this project as a hands-on way to explore how **Streamlit** can be used beyond data science dashboards. A to-do list is something familiar and practical, which made it a great use case for learning about:
 
@@ -41,7 +41,7 @@ It also helped me understand how to separate **logic**, **UI**, and **state mana
 **
 **[Click below to use the app] 
 
-## (https://commitsapporbasheershaik2002-mgs4ehphd4xbm5zguofgny.streamlit.app/)##
+#### (https://commitsapporbasheershaik2002-mgs4ehphd4xbm5zguofgny.streamlit.app/)####
 
 This app is deployed using **Streamlit Cloud** and is publicly accessible. Try adding and removing your own tasks to see it in action.
 
